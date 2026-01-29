@@ -1,0 +1,15 @@
+/Users/xylinadelgado/repos/repos/testingC/bin/Debug/net10.0/testingC
+/Users/xylinadelgado/repos/repos/testingC/bin/Debug/net10.0/testingC.deps.json
+/Users/xylinadelgado/repos/repos/testingC/bin/Debug/net10.0/testingC.runtimeconfig.json
+/Users/xylinadelgado/repos/repos/testingC/bin/Debug/net10.0/testingC.dll
+/Users/xylinadelgado/repos/repos/testingC/bin/Debug/net10.0/testingC.pdb
+/Users/xylinadelgado/repos/repos/testingC/obj/Debug/net10.0/testingC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xylinadelgado/repos/repos/testingC/obj/Debug/net10.0/testingC.AssemblyInfoInputs.cache
+/Users/xylinadelgado/repos/repos/testingC/obj/Debug/net10.0/testingC.AssemblyInfo.cs
+/Users/xylinadelgado/repos/repos/testingC/obj/Debug/net10.0/testingC.csproj.CoreCompileInputs.cache
+/Users/xylinadelgado/repos/repos/testingC/obj/Debug/net10.0/testingC.sourcelink.json
+/Users/xylinadelgado/repos/repos/testingC/obj/Debug/net10.0/testingC.dll
+/Users/xylinadelgado/repos/repos/testingC/obj/Debug/net10.0/refint/testingC.dll
+/Users/xylinadelgado/repos/repos/testingC/obj/Debug/net10.0/testingC.pdb
+/Users/xylinadelgado/repos/repos/testingC/obj/Debug/net10.0/testingC.genruntimeconfig.cache
+/Users/xylinadelgado/repos/repos/testingC/obj/Debug/net10.0/ref/testingC.dll
