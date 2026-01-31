@@ -1,15 +1,21 @@
 ﻿using System;
 
-class Program
+Panda p1 = new Panda("Pan Dee");
+Panda p2 = new Panda("Pan Dah");
+Console.WriteLine(p1.Name);
+Console.WriteLine(p2.Name);
+
+Console.WriteLine(Panda.Population);
+public class Panda
 {
-  static void Main(string[] args)
+  public string Name; //Intance field
+  public static int Population; // static field
+  public Panda(string n) //constructor
   {
-    Console.WriteLine(FeetToInches(30));
-    Console.WriteLine(FeetToInches(60));
-   int FeetToInches(int Feet)
-    {
-      int inches = Feet * 12;
-      return inches;
-   }
+    Name = n; 
+    Population = Population + 1; //asign the instance field and then increment
   }
 }
+
+
+
