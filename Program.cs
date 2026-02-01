@@ -1,25 +1,22 @@
-﻿using System;
-using Animals;
-Panda p1 = new Panda("Pan Dee");
-Panda p2 = new Panda("Pan Dah");
+﻿ using System;
+Point p1 = new Point();
+p1.X = 7;
 
+Point p2 = p1;
 
-Console.WriteLine(p1.Name);
-Console.WriteLine(p2.Name);
+Console.WriteLine(p1.X); //7
+Console.WriteLine(p2.X); //7
 
-Console.WriteLine(Panda.Population);
-namespace Animals
-{
-  public class Panda
-{
-  public string Name; //Intance field
-  public static int Population; // static field
-  public Panda(string n) //constructor
-  {
-    Name = n;
-    Population = Population + 1; //asign the instance field and then increment
-  }
-}
+p1.X = 9;
 
+Console.WriteLine(p1.X); //9
+Console.WriteLine(p2.X); //7
+
+public class Point {
+  public int X, Y;
 
 }
+
+
+
+
